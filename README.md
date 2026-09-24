@@ -1,2 +1,2 @@
-# hw2-f26
-## Luke Rinehart
+# hw2_simple_css
+Starter code for simple css assignment
